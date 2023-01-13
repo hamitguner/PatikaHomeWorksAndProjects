@@ -1,2 +1,2 @@
-# SQL kursu ödev ve projelerı içerir
-PostgreSQL e göre yazılmıştır.
+# SQL kursu ödev ve projeleri içerir
+PostgreSQL'e göre yazılmıştır.
